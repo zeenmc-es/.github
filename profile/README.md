@@ -1,4 +1,4 @@
-# ZeenMC Network 🧡
+# ZeenMC 🧡
 
 Somos un servidor de Minecraft multiplataforma *(disponibles para Java y Bedrock)* el cual puedes jugar con cualquier versión superior a la 1.20. Intentamos mejorar diariamente para conseguir la mejor jugabilidad y experiencia para todos los jugadores.
 
